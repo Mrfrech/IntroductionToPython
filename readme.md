@@ -8,4 +8,4 @@ In this part we are gonna cover the most fundamental block of python to develop 
 
 stating with simple to complex things and in the end of this toturial we will be programming some complex projects.
 
-2 . blank
+And i never did its been 2y...
